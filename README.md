@@ -1,6 +1,6 @@
 # AvaGrad
 
-Implementation of the adaptive method AvaGrad proposed in [Domain-independent Dominance of Adaptive Methods](https://openreview.net/pdf?id=rJgYxn09Fm)
+Implementation of the adaptive method AvaGrad proposed in [Domain-independent Dominance of Adaptive Methods](https://arxiv.org/abs/1912.01823)
 
 ## Requirements
 ```
